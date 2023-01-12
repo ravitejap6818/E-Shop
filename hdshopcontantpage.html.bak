@@ -1,0 +1,75 @@
+<html>
+<head>
+<style>
+div {
+  background-color:blue;
+  width: 1500px;
+  padding: 20px;
+  margin: 20px;
+  color:white;
+   font-family:Times New Roman;
+  position: relative;
+  animation-name: hd;
+  animation-duration: 100s;
+  animation-delay: 1s;
+}
+@keyframes hd{
+  0%   {background-color: red;}
+  2%  {background-color: grey;}
+  4%  {background-color: blue;}
+  6% {background-color: green;}
+  8% {background-color: skyblue;}
+  10% {background-color: brown;}
+  12% {background-color: pink;}
+  14% {background-color: purple;}
+  16% {background-color: violet;}
+}
+p{
+ color:black;
+ font-size:50;
+ background-color:white;
+ font-family:Copperplate;
+}
+</style>
+</head>
+<body>
+<div>
+<p align="right"><marquee>HD ELECTRONICS SHOP</marquee></p>
+<center>
+<h1><u>CONTACT US</u></h1></center>
+<table>
+<th>
+<pre style="font-size:25px">
+            <u>PERSONAL DETAILS</u></pre>
+<pre style="font-size:20px">
+     Name:P.Ravi teja<br>
+                Father name:P.Srinivasa rao<br>
+            Mother name:P.Naga mani<br>
+Gender:Male<br>
+                      E-mail id:ravitejap2109@gmail.com<br>
+       Phone no:8309277988<br>
+</pre>
+</th>
+<th>
+<img src="F:\21-03-2022\my project work\ravi.jpg" width="300" height="300">
+</th>
+<th>
+<pre style="font-size:25px">
+             <u> PROFESSISONAL DETAILS</u>
+</pre>
+<pre style="font-size:20px">
+                College name:D.V.N college<br>
+             Hall ticket:719120305277<br>
+      Studying:3rd BSc<br>
+          Contact no:9963994097<br>
+ Course:MECs<br>
+                  Address:opp.george club,Akp,
+ Vishakapatnam<br>
+               E-mail id:www.dadiakp.com<br>
+</pre>
+</th>
+</table>
+<a href="homepage.html"><input type="button" value="HOMEPAGE"></a>
+</div>
+</body>
+</html>

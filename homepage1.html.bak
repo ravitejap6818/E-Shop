@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>ELECTRONIC SHOP</title>
+</head>
+<body background="http://www.washingtonpost.com/news/the-intersect/wp-content/uploads/sites/32/2016/07/0728_techwords_ss-11.gif">
+<pre>
+<div style="background-color:BLACK;color:white;padding:20px;">
+             <a href="hdshopcontantpage.html"><input style="font-size:200%" style="background-color:blue;" type="button" value="CONTACT US"></a>                                                    <a href="https://www.google.com/maps/place/DADI+VEERUNAIDU+COLLEGE/@17.691214,83.0002056,17z/data=!3m1!4b1!4m5!3m4!1s0x3a3970d73e529df7:0x1c9adb87f8733228!8m2!3d17.691214!4d83.0023943"> <input style="font-size:200%" type="button" value="LOCATION"> </a>                               <a href="loginpage.html"> <input style="font-size:200%" type="button" value="LOG IN"></a>
+</div>
+</pre>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h1 align= "center" style="font-size:500%"; > HD <br>ELECTRONIC SHOP</h1>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<pre>
+<div style="background-color:BLACK;color:white;padding:20px;">
+                   <a href="feedbackpage.html"><input style="font-size:200%" type="button" value="FEEDBACK"> </a>                                             <a href="1stpage.html"> <input style="font-size:200%" type="button" value="YOUR ORDER"> </a>                               <a href="hdshopabout.html"> <input style="font-size:200%" type="button" value="ABOUT"></a>
+</div>
+</pre>
+</body>
+</html>
